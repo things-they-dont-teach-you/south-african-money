@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Debt counselling, step by step</title>
+  <desc id="d">1. You apply to an NCR-registered debt counsellor. 2. The counsellor tells your lenders and the credit bureaus within 5 business days. 3. The counsellor assesses whether you are over-indebted. 4. If you are, they negotiate lower payments with your lenders. 5. A magistrate's court or the National Consumer Tribunal makes the plan an order. Steps 1 to 5 must finish within 60 business days, and lenders cannot take legal action during that time. 6. You repay under the plan, with no new credit. 7. When the debts are paid, you get a clearance certificate and the flag comes off your record.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="420" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Debt counselling, step by step</text>
+
+  <rect x="40" y="66" width="400" height="236" rx="8" fill="#eef4fc" stroke="#2a78d6" stroke-width="2"/>
+  <text x="56" y="88" font-size="13" font-weight="600" fill="#2a78d6">Within 60 business days. Lenders can't sue meanwhile.</text>
+
+  <g font-size="15" fill="#0b0b0b">
+    <rect x="56" y="100" width="368" height="34" rx="6" fill="#ffffff" stroke="#52514e"/>
+    <text x="72" y="122">1. Apply to a registered debt counsellor</text>
+    <rect x="56" y="140" width="368" height="34" rx="6" fill="#ffffff" stroke="#52514e"/>
+    <text x="72" y="162">2. Lenders and bureaus told (5 business days)</text>
+    <rect x="56" y="180" width="368" height="34" rx="6" fill="#ffffff" stroke="#52514e"/>
+    <text x="72" y="202">3. Assessment: are you over-indebted?</text>
+    <rect x="56" y="220" width="368" height="34" rx="6" fill="#ffffff" stroke="#52514e"/>
+    <text x="72" y="242">4. Negotiation for lower payments</text>
+    <rect x="56" y="260" width="368" height="34" rx="6" fill="#ffffff" stroke="#52514e"/>
+    <text x="72" y="282">5. Court or tribunal makes it an order</text>
+  </g>
+  <line x1="240" y1="302" x2="240" y2="322" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="40" y="328" width="400" height="34" rx="6" fill="#fdf1e9" stroke="#eb6834" stroke-width="2"/>
+  <text x="56" y="350" font-size="15" fill="#0b0b0b">6. Repay under the plan. No new credit.</text>
+  <line x1="240" y1="362" x2="240" y2="376" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="40" y="380" width="400" height="30" rx="6" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="56" y="400" font-size="15" fill="#0b0b0b">7. Paid up: clearance certificate</text>
+
+  <rect x="464" y="66" width="216" height="296" rx="8" fill="#ffffff" stroke="#d9d8d3"/>
+  <text x="480" y="92" font-size="15" font-weight="700" fill="#0b0b0b">Know before you sign</text>
+  <g font-size="13" fill="#0b0b0b">
+    <text x="480" y="120">Check the counsellor on</text>
+    <text x="480" y="138">the NCR register.</text>
+    <text x="480" y="166">There are fees: ask for</text>
+    <text x="480" y="184">them in writing.</text>
+    <text x="480" y="212">There is no payment holiday.</text>
+    <text x="480" y="240">A flag shows on your record</text>
+    <text x="480" y="258">until you exit. It is not a</text>
+    <text x="480" y="276">"blacklisting".</text>
+    <text x="480" y="304">Miss payments and lenders</text>
+    <text x="480" y="322">may end it and sue.</text>
+  </g>
+  <text x="464" y="400" font-size="12" fill="#52514e">Source: NCR. Not financial advice.</text>
+</svg>
