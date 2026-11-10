@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">What a R3 000 short-term loan can cost</title>
+  <desc id="d">A first short-term loan of R3 000 for one month, at the legal maximums. Interest at 5% a month is R150. The initiation fee is R165 plus 10% of the R2 000 above R1 000, which is R365. The monthly service fee is R60. The most that may be repaid is R3 575, so the loan costs up to R575 for one month.</desc>
+  <rect width="720" height="340" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">What a R3 000 short-term loan can cost</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">First short-term loan this year, one month, at the legal maximums.</text>
+
+  <!-- stacked bar: 600px = R3 600 -->
+  <rect x="40" y="96" width="500" height="44" rx="4" fill="#2a78d6"/>
+  <rect x="542" y="96" width="23" height="44" rx="2" fill="#eb6834"/>
+  <rect x="567" y="96" width="59" height="44" rx="2" fill="#d03b3b"/>
+  <rect x="628" y="96" width="10" height="44" rx="2" fill="#7a5bc7"/>
+  <text x="56" y="124" font-size="15" font-weight="600" fill="#ffffff">R3 000 you borrowed</text>
+
+  <rect x="40" y="168" width="14" height="14" rx="3" fill="#2a78d6"/>
+  <text x="64" y="180" font-size="15" fill="#0b0b0b">Amount borrowed</text>
+  <text x="640" y="180" font-size="15" fill="#0b0b0b" text-anchor="end">R3 000</text>
+  <rect x="40" y="196" width="14" height="14" rx="3" fill="#eb6834"/>
+  <text x="64" y="208" font-size="15" fill="#0b0b0b">Interest: 5% for one month</text>
+  <text x="640" y="208" font-size="15" fill="#0b0b0b" text-anchor="end">+ R150</text>
+  <rect x="40" y="224" width="14" height="14" rx="3" fill="#d03b3b"/>
+  <text x="64" y="236" font-size="15" fill="#0b0b0b">Initiation fee: R165 + 10% of R2 000</text>
+  <text x="640" y="236" font-size="15" fill="#0b0b0b" text-anchor="end">+ R365</text>
+  <rect x="40" y="252" width="14" height="14" rx="3" fill="#7a5bc7"/>
+  <text x="64" y="264" font-size="15" fill="#0b0b0b">Service fee: one month</text>
+  <text x="640" y="264" font-size="15" fill="#0b0b0b" text-anchor="end">+ R60</text>
+  <line x1="40" y1="280" x2="640" y2="280" stroke="#d9d8d3"/>
+  <text x="64" y="304" font-size="16" font-weight="700" fill="#0b0b0b">Most you can be charged to repay</text>
+  <text x="640" y="304" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="end">R3 575</text>
+  <text x="40" y="330" font-size="12" fill="#52514e">Source: NCA fee and interest regulations (see facts.md). Anything more is illegal. Not financial advice.</text>
+</svg>
