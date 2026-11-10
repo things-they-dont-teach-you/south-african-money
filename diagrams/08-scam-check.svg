@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Is this offer a scam?</title>
+  <desc id="d">You get an offer of a loan, an investment, a policy or a job. Does it promise guaranteed high returns, or pay you to recruit others? Does it ask for a fee before you get anything? Does it ask for your PIN, OTP, password or card? Does it pressure you to act now? If any answer is yes, walk away and report it. If not, still check the seller on the NCR register for lenders or the FSCA search for investments and insurance before you pay or sign.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="440" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Is this offer a scam?</text>
+
+  <rect x="40" y="66" width="340" height="40" rx="8" fill="#2a78d6"/>
+  <text x="210" y="92" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">A loan, investment, policy or job offer</text>
+  <line x1="210" y1="106" x2="210" y2="122" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="40" y="128" width="340" height="196" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="56" y="154" font-size="15" font-weight="700" fill="#0b0b0b">Does it...</text>
+  <g font-size="14" fill="#0b0b0b">
+    <text x="56" y="182">promise guaranteed high returns,</text>
+    <text x="56" y="200">or pay you to recruit people?</text>
+    <text x="56" y="228">ask for a fee before you get anything?</text>
+    <text x="56" y="256">ask for your PIN, OTP, password</text>
+    <text x="56" y="274">or card?</text>
+    <text x="56" y="302">push you to decide right now?</text>
+  </g>
+  <line x1="380" y1="226" x2="434" y2="226" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="407" y="218" font-size="13" fill="#52514e" text-anchor="middle">Any yes</text>
+  <line x1="210" y1="324" x2="210" y2="348" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="220" y="341" font-size="13" fill="#52514e">All no</text>
+
+  <rect x="440" y="128" width="240" height="196" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="560" y="190" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="middle">✕  Walk away</text>
+  <text x="560" y="220" font-size="14" fill="#0b0b0b" text-anchor="middle">Don't pay, sign or share.</text>
+  <text x="560" y="244" font-size="14" fill="#0b0b0b" text-anchor="middle">Report it to the police,</text>
+  <text x="560" y="264" font-size="14" fill="#0b0b0b" text-anchor="middle">the NCR or the FSCA.</text>
+
+  <rect x="40" y="354" width="640" height="56" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="378" font-size="15" font-weight="600" fill="#0b0b0b">Still check before you pay or sign.</text>
+  <text x="60" y="398" font-size="14" fill="#0b0b0b">Lenders: the NCR register. Investments and insurance: the FSCA search.</text>
+  <text x="40" y="432" font-size="12" fill="#52514e">Sources: NCR, FSCA. Not financial advice.</text>
+</svg>
